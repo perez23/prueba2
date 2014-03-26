@@ -8,15 +8,7 @@
 </head>
 
 <body>
-        <header>
-            <nav>
-                <a href="inicio.html">Inicio</a>
-                <a href="nosotros.html">Nosotros</a>
-                <a href="opcion.html">Opcion</a>
-                <a href="opcion.html">Opcion</a>
-
-            </nav>
-        </header>
+        
         <!-- Cuerpo de la pagina -->
         <footer>
             
